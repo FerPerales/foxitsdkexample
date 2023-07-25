@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@foxitsoftware/foxit-pdf-sdk-for-web-library-full": "^9.0.4"
+  }
+}
